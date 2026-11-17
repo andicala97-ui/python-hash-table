@@ -14,3 +14,4 @@ The implementation includes:
 The project was developed as a practical exercise in Python programming, data structures, dictionaries, and collision resolution techniques.
 
 **Technologies:** Python 3, Object-Oriented Programming, Dictionaries.
+**Acknowledgment:** Developed as part of my Python learning journey through the freeCodeCamp curriculum, with the goal of strengthening my understanding of data structures and Python programming.
